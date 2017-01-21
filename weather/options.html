@@ -1,0 +1,32 @@
+
+<!doctype html>
+<html>
+  <head>
+    <title>Weather Settings</title>
+    <!-- <link href="style.css" rel="stylesheet" type="text/css"> -->
+    <style>
+    body: { padding: 10px; }
+    </style>
+    <script src="options.js"></script>
+  </head>
+  <body>
+    <h1>
+      <img src="cloud.png" height="42" width="42">
+      Weather Effects
+    </h1>
+    <h2>Settings</h2>
+    <form id="options">
+      <input type="checkbox" name="isNotified" checked>
+      Enable umbrella notifications
+    </form>
+    <label>
+      <input type="checkbox" name="isOverlay" checked>
+      Enable overlay
+    </label>
+    <p></p>
+
+    <div id="status"></div>
+    <button id="save">Save</button>
+
+  </body>
+</html>

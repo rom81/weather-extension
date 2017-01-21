@@ -5,10 +5,19 @@
   "permissions": [
     "tabs", "http://*/*", "https://*/*"
   ],
+  "icons": { "16": "cloud.png",
+           "48": "cloud.png",
+          "128": "cloud.png" },
   "browser_action": {
       "default_title": "Fun effects",
       "default_icon": "cloud.png",
       "default_popup": "popup.html"
+  },
+  //"options_page": "options.html",
+  "options_ui":{
+    "page": "options.html",
+    "chrome_style": true,
+    "open_in_tab": true
   },
   "content_scripts": [
     {
