@@ -1,0 +1,25 @@
+<html>
+	<head>
+	<script type="text/javascript" src="snowstorm.js"></script>
+	</head>
+   <body style="background:#6699cc;font:100 1.75em helvetica neue, helvetica,arial,verdana,sans-serif;color:#fff">
+   <script
+  src="https://code.jquery.com/jquery-3.1.1.js"
+  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+  crossorigin="anonymous"></script>
+  <script type="text/javascript" src="snowstorm.js"></script>
+   <script>
+  
+   var jsonData;
+		$.getJSON("http://api.openweathermap.org/data/2.5/weather?q=Pittsburgh,us&appid=c3ec46e0a4c33ca46821a76492688dcc", function(json) {
+			jsonData = json.weather[0].main;
+			if(jsonData = "clouds"){
+				snowStorm.toggleSnow();
+				}
+			
+				});
+	
+  </script>
+      
+   </body>
+</html>
