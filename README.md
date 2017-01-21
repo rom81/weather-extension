@@ -8,6 +8,9 @@ http://api.openweathermap.org/data/2.5/weather?q=Pittsburgh,us&appid=c3ec46e0a4c
 some examples of extensions:
 https://developer.chrome.com/extensions/samples
 
+example of weather extension (file was too big to upload)
+https://github.com/timleland/WeatherCE
+
 411 on extensions:
 https://developer.chrome.com/extensions/overview
 
