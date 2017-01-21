@@ -10,3 +10,6 @@ https://developer.chrome.com/extensions/samples
 
 411 on extensions:
 https://developer.chrome.com/extensions/overview
+
+This is a cool snow animation: 
+https://codepen.io/craftedbygc/pen/yyJamr 
