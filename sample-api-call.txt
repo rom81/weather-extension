@@ -1,0 +1,45 @@
+{
+	"coord":
+	{
+		"lon":-80,"lat":40.44
+	},
+	"weather":
+	[{
+		"id":804,
+		"main":"Clouds",
+		"description":"overcast clouds",
+		"icon":"04n"
+	}],
+	"base":"stations",
+	"main":
+	{
+		"temp":282.66,
+		"pressure":1009,
+		humidity":93,
+		"temp_min":282.15,
+		"temp_max":283.15
+	},
+	"visibility":12874,
+	"wind":
+	{
+		"speed":1.5,
+		"deg":180
+	},
+	"clouds":
+	{
+		"all":90
+	},
+	"dt":1484957700,
+	"sys":
+	{
+		"type":1,
+		"id":2338,
+		"message":0.1901,
+		"country":"US",
+		"sunrise":1485002272,
+		"sunset":1485037524
+	},
+	"id":5206379,
+	"name":"Pittsburgh",
+	"cod":200
+}
