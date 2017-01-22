@@ -19,3 +19,4 @@ https://codepen.io/craftedbygc/pen/yyJamr
 Cloud animation in HTML/CSS:
 http://cssdeck.com/labs/animated-clouds-background-pure-css3
 
+SNOWSTORM git: https://github.com/scottschiller/Snowstorm
