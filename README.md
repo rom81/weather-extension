@@ -20,3 +20,9 @@ Cloud animation in HTML/CSS:
 http://cssdeck.com/labs/animated-clouds-background-pure-css3
 
 SNOWSTORM git: https://github.com/scottschiller/Snowstorm
+
+
+
+
+!!!!!!!!!!
+http://stackoverflow.com/questions/35118836/google-chrome-extensions-content-script-and-background
